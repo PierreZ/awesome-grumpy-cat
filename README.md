@@ -1,6 +1,6 @@
 # Awesome Grumpy Cat [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="http://4.static.newspaper.guestlistmedia.net/uploads/articles/7/179_xl.jpg" align="right" width="170">](https://nodejs.org)
-> A curated list of delightful articles to avoid developers to be fashion victims.
+> A curated list of delightful articles to bring developers back to earth.
 
 
 * Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
